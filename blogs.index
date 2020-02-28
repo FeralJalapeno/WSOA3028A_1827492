@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> The Feral Jalapeno Blogs</title>
+    </head>
+    <body>
+        <h1><center><strong>BLOGS</strong></center></h1>
+        <hr>
+        <h2><center><em> The Browser Wars</em></center></h2>
+        
+        <h3><center>My opinion that wasn't asked for</center></h3>
+        <h2><center>Brief Overview</center></h2>
+        
+       <center><img   src= https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555303114/shape/mentalfloss/netscape-hero.jpg width= 800 height=300 border="2">
+       </center> 
+       <br>
+       <hr>
+       So, the Browser wars …
+       <br>
+       <br>
+
+       Essentially the story is that some undergrad students at the university of Illinois had a goal to change the clutter of the world wide web. They wanted to make all the information easily accessible. They achieved this goal in 1994 and launched the Mosaic browser. Now, a browser is a software application used to locate and display webpages. They did exist prior to 1993 but the Mosaic browser was different. This browser gained instant popularity because of its user-friendly design and it’s use of colour. The Mosaic browser is the foundation of almost all web browsing we know of today.
+       <br>
+       <br>
+
+       After all this, Jim Clark (as in the same man who rendered the dinosaurs for Jurassic Park) joined forces with the Illinois students and formed Mosaic Communications Corporation. BUT they ran into a major issue, the University still had intellectual property rights to the original Mosaic (which is still in effect today) so naturally the university sued them for intellectual property infringement. They couldn’t do anything but settle for the name Netscape and start coding from scratch.
+       <br><br>
+       In mid-December, version 1.0 of Netscape navigator was released. It was a massive success. Besides having a simple point and click method, it also provided unpresented security. Netscape pioneered SSL (secure socket layer) protocol which established and encrypted the link between browser and server. This allowed privacy and consumer protection when submitting things like credit card numbers. In August 1995, Netscape went public with version 2.0 and had 80% of the market share. But the point is not on their success, it’s the attention they attracted from their success.
+       <br><br>
+       Here’s the deal, in 1995 Microsoft suddenly stole the limelight. Bill Gates publicly stated his intentions and goals – to destroy Netscape. They released Internet explorer 1.0. Ironically, this browser was built off some of the original Netscape Navigator. But how did that happen if the University of Illinois had intellectual property rights? Turns out, Microsoft had a licensed browser software from a company called Spyglass. This company brokered a deal with the university to license Mosaic and its underlying technology.
+       <br><br>
+       In the end Bill Gates achieved his goal, to overthrow Netscape. Sadly, this was done by literally using the students original Mosaic creation against them. Their university is the true villain. An institute that was meant to help its students but rather chose to keep the students original work away from them and eventually sell them out for some financial gain. It’s disappointing to see how this university let down it’s very students, not just once- but twice.
+       <br><br>
+
+       <hr>
+       <h2><center>Why was Netscape Revolutionary?</center></h2>
+       Besides the simplicity of the browser’s point and click system, it offered something more important – security.
+       <br>
+        Netscape Navigator, version 1.0, worked with engineer, Kipp Hickman, which provided the browser with unpresented security. The browser pioneered SSL protocol which established and encrypted a link between browser and server. This allowed for consumer protection. The underlying technology of SSL powers todays security standard – TLS (transport layer security). This was a solid method of authenticating two end points and having a secure connection.
+        <br>
+        Netscape Navigator, version 2.0, released soon after. This version functioned faster and incorporated Java applets which then allowed for plug-ins (a software component that adds another feature to an existing computer program). The browser had millions of users and had 80% market share.
+        <br>
+        <hr>
+        <h2><center>Web Robots- Legitimate and Malicious</center></h2>
+        <br>
+        Robots… an interesting word. It’ll either make you think about Terminator or if you’re, from South Africa, traffic lights. I still don’t know why we call them that.
+        <br><br>
+        But I’m talking about Web Robots. The ones that don’t have red eyes to incinerate you or force you to push the brakes on your car. Web robots are essentially just a set of programs or a simple software application that transverse any web application and runs through a variety of automated tasks. This is mainly repetitive tasks that the robots can do much faster than if a human were to do it manually. They are nothing but scripts which gather information from web servers and digest and sort out this information at a rate humans could never aspire to.
+        <br><br>
+        We develop web bots using different open source programming languages which allow web robot developers to code scripts for the robots to perform specific tasks. There are two main types of web robots, legitimate and malicious.
+        <br><br>
+        Legitimate web robots: these kinds of robots are meant to save time and effort for users. Like it was said before, they run tasks that would waste a lot of time if done manually. Unlike some people, these robots actually serve a purpose and save time (ouch ). 
+        <br><br>
+        An example of a legitimate bot would be a Media Web Bot, like the ones that upload the weather conditions and forecasts. Sorry to disappoint you but there isn’t some guy standing outside sending you updates on the weather conditions for the week, it’s a web bot. So now we have a legitimate web bot to thank for reminding us to take an umbrella. I supposed we could also thank the human that created the bot, but where’s the fun in that?
+        <br><br>
+        Malicious Web robots: Mostly used by hackers … literally who else would use something called a malicious web robot? The robots are used with the purpose of malicious acts and security breaches. so obviously they’re used by hackers, in case the word malicious isn’t convincing enough.
+        <br><br>
+        Here’s an example that makes all of us want to smash our screens in, spam web robots. These bots are used for spreading advertisements with pop-ups. So essentially their purpose is to annoy the hell out of us when we’re trying to illegally download music from our favourite artist, that we love SO much but not enough to actually pay for their music… ahem anyway. These bots are the ones responsible for collecting email addresses which lead to peoples’ inboxes being filled with advertisements as well as their long lost, Nigerian prince cousins finally contacting them about the amount of gold they wish to send them.
+        <br><br>
+        <hr>
+        <h2><center> Want to create a Web Robot?</center></h2>
+        <h3><center>Things you should consider first</center></h3>
+        <br>
+        Sometimes creating things can seem like a good thing but it is important to bear in mind that just because something can be created, doesn’t mean it should. Although technology created needs to be wary of its ethical implications, let’s just look at the non-ethical aspects to consider when creating web robots.
+        <br><br>
+        What do you want this web robot to do? The best use of a web robot is for any task that would take an insane amount of time for a human to do manually. The goal should be that you want this web robot to do this manual task automatically which results in a major amount of time saved.
+        <br><br>
+        What steps does this web robot need to follow in order to perform the tasks required of it? The goal should be that you want the bot to complete the task in the minimum amount of time as possible. You should plan it well enough so that you can achieve an efficient program that works well and is error free. This mostly relies on your programming and scripting. You should research and spend time looking at what language will be better suited for your bots purpose.
+        <br><br>
+        Will this bot you’re creating need manual intervention to complete it’s required tasks or is it completely automated? This important to consider as you’ll need to decide whether you still want a human to manually work along with the bot or if you want the bot to function by itself. This may make the task you wish to complete through the bot more time consuming. 
+        <br><br>
+        Consider whether the bot needs to run inside a web browser in order to function. IF it operates on a remote server you should be aware of whether others to operate it.
+        <br><br>
+        below is an article that covers Web Robots in their essence. Feel free to read up on more if you'd like to create your own web robot:
+       
+<a href=" https://opensourceforu.com/2017/07/web-robots-worker-bees-internet/"> Create Web Robot for free Using Python </a>
+<br><br>
+<hr>
+
+
+        
+
+    </body>
+</html>
