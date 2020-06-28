@@ -1,12 +1,26 @@
+p{
+    
+   
+    
+    margin: auto;  
+    padding: 50px;
+    text-align: center;
+    font-family: 'Biryani', sans-serif;
+}
 h1{
+    color: black;
+    font-family: 'Biryani', sans-serif;
     text-align: center;
+    
 }
+
 h2{
+    color: gray;
+    font-family: 'Biryani', sans-serif;
     text-align: center;
 }
-h3{
+img{
     text-align: center;
-}
-p{ 
-    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
