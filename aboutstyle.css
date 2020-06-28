@@ -10,10 +10,17 @@ p{
 h1{
     color: black;
     font-family: 'Biryani', sans-serif;
+    text-align: center;
     
 }
 
 h2{
     color: gray;
     font-family: 'Biryani', sans-serif;
+    text-align: center;
+}
+img{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
