@@ -3,7 +3,7 @@ p{
    
     
     margin: auto;  
-    padding: 50px;
+    padding: 30px;
     text-align: center;
     font-family: 'Biryani', sans-serif;
 }
@@ -15,6 +15,11 @@ h1{
 }
 
 h2{
+    color: gray;
+    font-family: 'Biryani', sans-serif;
+    text-align: center;
+}
+h3{
     color: gray;
     font-family: 'Biryani', sans-serif;
     text-align: center;
