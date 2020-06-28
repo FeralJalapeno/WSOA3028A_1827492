@@ -5,13 +5,15 @@ p{
     margin: auto;  
     padding: 50px;
     text-align: center;
+    font-family: 'Biryani', sans-serif;
 }
 h1{
-    color: black
-    
+    color: black;
+    font-family: 'Biryani', sans-serif;
     
 }
 
 h2{
-    color: gray
+    color: gray;
+    font-family: 'Biryani', sans-serif;
 }
